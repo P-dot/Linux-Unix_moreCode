@@ -1,0 +1,2 @@
+"This is a file for test ignore function in git"
+"This is a change in the file"
