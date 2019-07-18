@@ -1,0 +1,12 @@
+total 40
+-rw-r--r-- 1 usuario usuario  62 jul 15 18:20 errors.txt
+-rw-r--r-- 1 usuario usuario   0 jul 15 18:23 filelist.txt
+-rwxr-xr-x 1 usuario usuario  83 jul  9 22:22 HelloWorld
+-rwxr-xr-x 1 usuario usuario  53 jul  9 22:39 HelloWorld2
+-rwxr-xr-x 1 usuario usuario 140 jul 10 06:43 if_statement
+-rwxr-xr-x 1 usuario usuario  84 jul 15 18:17 standarinputtest
+-rwxr-xr-x 1 usuario usuario 125 jul 10 06:50 tuto7
+-rw-r--r-- 1 usuario usuario 360 jul 10 07:02 update
+-rwxr-xr-x 1 usuario usuario  62 jul  9 22:52 Update
+-rwxr-xr-x 1 usuario usuario 360 jul 10 07:04 updatescript
+-rwxr-xr-x 1 usuario usuario  19 jul  9 22:51 WatchDisk
